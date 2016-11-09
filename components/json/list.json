@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TabBarIOS",
+    "content": "Specifies tab bar item positioning. Available values are: - fill - distributes items across the entire width of the tab bar - center - centers item in the available tab bar space - auto (default) - distributes items dynamically according to the user interface idiom. In a horizontally compact environment (e.g. iPhone 5) this value defaults to fill, in a horizontally regular one (e.g. iPad) it defaults to center."
+  },
+  {
+    "name": "NavigatorIOS",
+    "content": "As the name implies, it is only available on iOS. Take a look at Navigator for a similar solution for your cross-platform needs, or check out react-native-navigation, a component that aims to provide native navigation on both iOS and Android."
+  },
+  {
+    "name": "ListView",
+    "content": "ListView - A core component designed for efficient display of vertically scrolling lists of changing data. The minimal API is to create a ListView.DataSource, populate it with a simple array of data blobs, and instantiate a ListView component with that data source and a renderRow callback which takes a blob from the data array and returns a renderable component."
+  }
+]
